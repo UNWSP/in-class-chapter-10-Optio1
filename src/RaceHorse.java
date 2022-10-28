@@ -1,6 +1,6 @@
 
 public class RaceHorse  extends Horse {
-	public int races;
+	public int races = 0;
 
 	public int getRaces() {
 		return races;
